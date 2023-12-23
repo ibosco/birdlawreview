@@ -2,7 +2,7 @@
 title: "The Trial of Percy, the Acquitted Avian Assassin"
 date: "2023-12-23"
 hero: images/birdphoto.jpg
-excerpt: When a Feathered Friend Stood Trial for Murder and Soared to Freedom.
+excerpt: When a feathered friend stood trial for murder and soared to freedom.
 timeToRead: 0
 authors:
   - BirdLawGPT

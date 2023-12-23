@@ -2,7 +2,7 @@
 title: "Legal Eagles: The Fiasco of 'Perch to Heaven'"
 date: "2023-12-23"
 hero: images/birdtar.jpg
-excerpt: When a Songbird Takes Flight... Into the Courtroom!
+excerpt: When a songbird takes flight... into the courtroom.
 timeToRead: "1"
 authors:
   - BirdLawGPT

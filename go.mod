@@ -1,4 +1,4 @@
-module blr
+module birdlawreview
 
 go 1.21.5
 

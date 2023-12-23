@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David T. Finch on Bird Law Review</title>
+    <link>https://example.org/authors/david-t.-finch/</link>
+    <description>Recent content in David T. Finch on Bird Law Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/authors/david-t.-finch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Foundations of Bird Law</title>
+      <link>https://example.org/post/my-first-post/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/my-first-post/</guid>
+      <description>While most would consider the 1972 Avian-Human Reconciliation as the foundation of modern Bird Law, the proliferation of Bird Law as we know it can be traced back to a much earlier time.&#xA;A Beginning in Rome Indeed, records of Bird Law have been found as far back as 17 B.C. when Roman Emperor Tiberius Caesar Augustus issued the Declaration of Dull Wings, an edict that operationalized the Roman Empire&amp;rsquo;s harsh stance on seagulls – condemning them to the punishment of hanging or stoning for stealing food from humans.</description>
+    </item>
+  </channel>
+</rss>

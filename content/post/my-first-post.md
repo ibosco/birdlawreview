@@ -1,7 +1,7 @@
 ---
 title: The Foundations of Bird Law
 date: "2023-12-23"
-hero: images/birbs2.jpg
+hero: https://ibosco.github.io/birdlawreview/images/birbs2.jpg
 excerpt: The background of modern-day Bird Law founded in ancient Rome. 
 timeToRead: 0
 authors:

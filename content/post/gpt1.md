@@ -1,7 +1,7 @@
 ---
 title: Feathered Spies or Just Feathered Friends?
 date: "2023-04-28"
-hero: /images/birbrobot2.jpg
+hero: images/birbrobot2.jpg
 excerpt: Are Birds Secret Government Surveillance Agents? The Beak Stops Here!
 timeToRead: 4
 authors:

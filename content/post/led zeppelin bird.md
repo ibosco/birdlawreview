@@ -1,7 +1,7 @@
 ---
 title: "Legal Eagles: The Fiasco of 'Perch to Heaven'"
 date: "2023-12-23"
-hero: /images/birdtar.jpg
+hero: images/birdtar.jpg
 excerpt: When a Songbird Takes Flight... Into the Courtroom!
 timeToRead: "1"
 authors:

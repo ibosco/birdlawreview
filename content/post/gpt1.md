@@ -1,7 +1,7 @@
 ---
 title: Feathered Spies or Just Feathered Friends?
 date: "2023-04-28"
-hero: images/birbrobot2.jpg
+hero: https://ibosco.github.io/birdlawreview/images/birbrobot2.jpg
 excerpt: Are birds secret government surveillance agents? The beak stops here!
 timeToRead: 4
 authors:

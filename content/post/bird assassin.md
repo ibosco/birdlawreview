@@ -1,7 +1,7 @@
 ---
 title: "The Trial of Percy, the Acquitted Avian Assassin"
 date: "2023-12-23"
-hero: /images/birdphoto.jpg
+hero: images/birdphoto.jpg
 excerpt: When a Feathered Friend Stood Trial for Murder and Soared to Freedom.
 timeToRead: 0
 authors:
